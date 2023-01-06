@@ -2,7 +2,7 @@
 Install it on lenovo
 
 
-Product keys
+# Product keys
  
 | Windows                    |Keys                         |
 ---|---|
